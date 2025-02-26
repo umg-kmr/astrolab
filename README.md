@@ -26,7 +26,7 @@ Follow the following steps to use the code:
 
 The bradleyroth function takes 4 arguments: masked image, integral image, window size, threshold value.
 
-Bsed on: https://people.scs.carleton.ca/~roth/iit-publications-iti/docs/gerh-50002.pdf
+Based on: https://people.scs.carleton.ca/~roth/iit-publications-iti/docs/gerh-50002.pdf
 
 
 
