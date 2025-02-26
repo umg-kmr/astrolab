@@ -7,7 +7,7 @@ Follow the following steps to use the code:
 
 1) Ensure that numba is installed in your conda environment (generally ast1080 for students). If not install using the following command after activating your environment:
 
-``` conda install numba ```
+   ``` conda install numba ```
 
 numba is a python package that uses Just-In-Time (JIT) compilation to increase code performance.
 
@@ -15,11 +15,11 @@ numba is a python package that uses Just-In-Time (JIT) compilation to increase c
 
 3) Use the following command to import the code:
 
-```import thresholding as thr ```
+   ```import thresholding as thr ```
 
 4) Access the functions in the file as:
 
-``` thr.integral_im(*image_file*) ```
+   ``` thr.integral_im(*image_file*) ```
 
 5) First apply the integral_im function to the background separated (masked) image and then use the bradleyroth function.
 
