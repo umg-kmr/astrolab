@@ -9,7 +9,7 @@ Follow the following steps to use the code:
 
    ``` conda install numba ```
 
-numba is a python package that uses Just-In-Time (JIT) compilation to increase code performance.
+   numba is a python package that uses Just-In-Time (JIT) compilation to increase code performance.
 
 2) Download the thresholding.py file at a convenient location on your computer.
 
