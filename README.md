@@ -17,13 +17,17 @@ Follow the following steps to use the code:
 
 3) Use the following command to import the code:
 
-   ```import thresholding as thr ```
+   ```
+   import thresholding as thr
+   ```
 
-4) Access the functions in the file as:
+5) Access the functions in the file as:
 
-   ``` thr.integral_im(*image_file*) ```
+   ```
+   thr.integral_im(*image_file*)
+   ```
 
-5) First apply the integral_im function to the background separated (masked) image and then use the bradleyroth function.
+7) First apply the integral_im function to the background separated (masked) image and then use the bradleyroth function.
 
 
 The bradleyroth function takes 4 arguments: masked image, integral image, window size, threshold value.
