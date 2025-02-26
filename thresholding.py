@@ -1,4 +1,5 @@
 from numba import njit
+import numpy as np
 
 @njit
 def integral_im(img):
