@@ -7,7 +7,9 @@ Follow the following steps to use the code:
 
 1) Ensure that numba is installed in your conda environment (generally ast1080 for students). If not install using the following command after activating your environment:
 
-   ``` conda install numba ```
+   ```
+    conda install numba
+   ```
 
    numba is a python package that uses Just-In-Time (JIT) compilation to increase code performance.
 
