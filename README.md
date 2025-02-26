@@ -30,4 +30,4 @@ Bsed on: https://people.scs.carleton.ca/~roth/iit-publications-iti/docs/gerh-500
 
 
 
-Credits: Keerthana Sudarshan for developing the code to implement Bradley-Roth thresholding.
+**Credits:** Keerthana Sudarshan for developing the code to implement Bradley-Roth thresholding.
